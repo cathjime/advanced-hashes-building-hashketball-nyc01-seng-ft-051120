@@ -9,14 +9,12 @@ def game_hash ()
                             :shoe => , 
                             :points => , 
                             :rebounds => , 
-                            
-                            
-                
-              }]}, 
-              
-              
-              
-              
+                            :assists => , 
+                            :steals => , 
+                            :blocks => , 
+                            :slam_dunks}]
+      
+    }, 
     :away => {:team_name => "", 
               :colors => [], 
               :players => [{}]}
