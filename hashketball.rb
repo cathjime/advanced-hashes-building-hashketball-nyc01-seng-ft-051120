@@ -17,9 +17,10 @@ def game_hash ()
          {:slam_dunks => }
        ] 
     }, 
-    :away => {:team_name => "", 
-              :colors => [], 
-              :players => [{}]}
+    :away => {
+      :team_name => "", 
+      :colors => [], 
+      :players => [{}]}
   }
   
   
